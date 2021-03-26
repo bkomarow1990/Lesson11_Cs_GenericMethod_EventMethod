@@ -1,0 +1,13 @@
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\bin\Debug\netcoreapp3.1\Lesson11CS_EventHandler.exe
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\bin\Debug\netcoreapp3.1\Lesson11CS_EventHandler.deps.json
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\bin\Debug\netcoreapp3.1\Lesson11CS_EventHandler.runtimeconfig.json
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\bin\Debug\netcoreapp3.1\Lesson11CS_EventHandler.runtimeconfig.dev.json
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\bin\Debug\netcoreapp3.1\Lesson11CS_EventHandler.dll
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\bin\Debug\netcoreapp3.1\Lesson11CS_EventHandler.pdb
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\obj\Debug\netcoreapp3.1\Lesson11CS_EventHandler.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\obj\Debug\netcoreapp3.1\Lesson11CS_EventHandler.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\obj\Debug\netcoreapp3.1\Lesson11CS_EventHandler.AssemblyInfo.cs
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\obj\Debug\netcoreapp3.1\Lesson11CS_EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\obj\Debug\netcoreapp3.1\Lesson11CS_EventHandler.dll
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\obj\Debug\netcoreapp3.1\Lesson11CS_EventHandler.pdb
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Lesson11CS_EventHandler\obj\Debug\netcoreapp3.1\Lesson11CS_EventHandler.genruntimeconfig.cache

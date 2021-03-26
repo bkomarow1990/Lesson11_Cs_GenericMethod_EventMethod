@@ -1,0 +1,13 @@
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.exe
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.deps.json
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.runtimeconfig.json
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.runtimeconfig.dev.json
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.dll
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.pdb
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.AssemblyInfo.cs
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.dll
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.pdb
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.genruntimeconfig.cache

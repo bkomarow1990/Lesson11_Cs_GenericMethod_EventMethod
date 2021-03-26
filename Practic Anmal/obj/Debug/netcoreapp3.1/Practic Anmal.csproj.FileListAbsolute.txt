@@ -1,0 +1,13 @@
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\bin\Debug\netcoreapp3.1\Practic Anmal.exe
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\bin\Debug\netcoreapp3.1\Practic Anmal.deps.json
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\bin\Debug\netcoreapp3.1\Practic Anmal.runtimeconfig.json
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\bin\Debug\netcoreapp3.1\Practic Anmal.runtimeconfig.dev.json
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\bin\Debug\netcoreapp3.1\Practic Anmal.dll
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\bin\Debug\netcoreapp3.1\Practic Anmal.pdb
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\obj\Debug\netcoreapp3.1\Practic Anmal.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\obj\Debug\netcoreapp3.1\Practic Anmal.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\obj\Debug\netcoreapp3.1\Practic Anmal.AssemblyInfo.cs
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\obj\Debug\netcoreapp3.1\Practic Anmal.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\obj\Debug\netcoreapp3.1\Practic Anmal.dll
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\obj\Debug\netcoreapp3.1\Practic Anmal.pdb
+C:\Users\dev\source\repos\Lesson11CS_EventHandler\Practic Anmal\obj\Debug\netcoreapp3.1\Practic Anmal.genruntimeconfig.cache
